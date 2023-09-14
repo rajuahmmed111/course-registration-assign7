@@ -3,7 +3,7 @@
       "id": "1",
       "img": "https://i.ibb.co/S01CL4z/Rectangle-2-1.png",
       "title": "Introduction to C Programming",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "paragraph": "C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972.",
       "price": "$49.99",
       "credit": "2 hrs",
       "button": "Select"
@@ -12,16 +12,16 @@
       "id": "2",
       "img": "https://i.ibb.co/qdvSGBg/Rectangle-2-2.png",
       "title": "Introduction to Algorithms",
-      "paragraph": "Vivamus eget nunc ac ligula convallis suscipit.",
+      "paragraph": "An algorithm is a procedure used for solving a problem or performing a computation.",
       "price": "$29.99",
-      "credit": "1 stars",
+      "credit": "1 hrs",
       "button": "Select"
     },
     {
       "id": "3",
       "img": "https://i.ibb.co/G7gGnwX/Rectangle-2-3.png",
       "title": "Introduction to C++ for DSA",
-      "paragraph": "Fusce eros metus, tincidunt id ante eu, cursus rhoncus libero.",
+      "paragraph": "C++ is a powerful general-purpose programming language. It can be used.",
       "price": "$39.99",
       "credit": "13 hrs",
       "button": "Select"
@@ -30,7 +30,7 @@
       "id": "4",
       "img": "https://i.ibb.co/s20xYbM/Rectangle-3-1.png",
       "title": "Basic Data Structures",
-      "paragraph": "Pellentesque odio tellus, bibendum sit amet vestibulum in.",
+      "paragraph": "A data structure is a specialized format for organizing, processing, retrieving and storing data. ",
       "price": "$59.99",
       "credit": "3.5 hrs",
       "button": "Select"
@@ -39,7 +39,7 @@
       "id": "5",
       "img": "https://i.ibb.co/mzWdMFW/Rectangle-3-2.png",
       "title": "Introduction to OOP Python",
-      "paragraph": "Cras non feugiat urna. Curabitur id libero in mi eleifend tristique.",
+      "paragraph": "Object-oriented programming (OOP) is a method of structuring a program by bundling",
       "price": "$44.99",
       "credit": "4 hrs",
       "button": "Select"
@@ -48,7 +48,7 @@
       "id": "6",
       "img": "https://i.ibb.co/N7CVnwc/Rectangle-3-3.png",
       "title": "Software Engineering",
-      "paragraph": "Sed vitae justo sit amet tellus efficitur semper.",
+      "paragraph": "Software engineering is the branch of computer science that deals with the design.",
       "price": "$34.99",
       "credit": "7 hrs",
       "button": "Select"
@@ -57,7 +57,7 @@
       "id": "7",
       "img": "https://i.ibb.co/TmDwCYm/Rectangle-4-1.png",
       "title": "AWS, Cloud Computing",
-      "paragraph": "Nullam eget nibh at justo dignissim vestibulum.",
+      "paragraph": "Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing.",
       "price": "$49.99",
       "credit": "5 hrs",
       "button": "Select"
@@ -66,7 +66,7 @@
       "id": "8",
       "img": "https://i.ibb.co/4gzDPPy/Rectangle-4-2.png",
       "title": "Database (MySQL)",
-      "paragraph": "Aliquam suscipit mollis purus, in finibus metus tempor vel.",
+      "paragraph": "MySQL, the most popular Open Source SQL database management system, is developed, distributed, and supported by Oracle Corporation.",
       "price": "$54.99",
       "credit": "9 hrs",
       "button": "Select"
@@ -75,7 +75,7 @@
       "id": "9",
       "img": "https://i.ibb.co/jLZCyjD/Rectangle-4-3.png",
       "title": "Problem-Solving Part",
-      "paragraph": "Aenean placerat euismod ante, at blandit velit cursus at.",
+      "paragraph": "Learn the four steps in the problem-solving process so you can understand and resolve the issues confronting your organization. Learn more at ASQ.org.",
       "price": "$64.99",
       "credit": "12 hrs",
       "button": "Select"
