@@ -8,6 +8,7 @@ const Courses = () => {
     const [courses, setCourses] = useState([]);
     const [selectCourse, setSelectCourse] = useState([]);
     const [totalCreditHours, setTotalCreditHours] = useState(0);
+    const [remaining, setRemaining] = useState(0);
 
 
     const fixedHours = 20;
