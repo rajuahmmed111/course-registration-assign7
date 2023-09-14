@@ -1,0 +1,85 @@
+[
+    {
+      "id": "1",
+      "img": "https://i.ibb.co/S01CL4z/Rectangle-2-1.png",
+      "title": "Introduction to C Programming",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": "$49.99",
+      "credit": "2 hrs",
+      "button": "Select"
+    },
+    {
+      "id": "2",
+      "img": "https://i.ibb.co/qdvSGBg/Rectangle-2-2.png",
+      "title": "Introduction to Algorithms",
+      "paragraph": "Vivamus eget nunc ac ligula convallis suscipit.",
+      "price": "$29.99",
+      "credit": "1 stars",
+      "button": "Select"
+    },
+    {
+      "id": "3",
+      "img": "https://i.ibb.co/G7gGnwX/Rectangle-2-3.png",
+      "title": "Introduction to C++ for DSA",
+      "paragraph": "Fusce eros metus, tincidunt id ante eu, cursus rhoncus libero.",
+      "price": "$39.99",
+      "credit": "13 hrs",
+      "button": "Select"
+    },
+    {
+      "id": "4",
+      "img": "https://i.ibb.co/s20xYbM/Rectangle-3-1.png",
+      "title": "Basic Data Structures",
+      "paragraph": "Pellentesque odio tellus, bibendum sit amet vestibulum in.",
+      "price": "$59.99",
+      "credit": "3.5 hrs",
+      "button": "Select"
+    },
+    {
+      "id": "5",
+      "img": "https://i.ibb.co/mzWdMFW/Rectangle-3-2.png",
+      "title": "Introduction to OOP Python",
+      "paragraph": "Cras non feugiat urna. Curabitur id libero in mi eleifend tristique.",
+      "price": "$44.99",
+      "credit": "4 hrs",
+      "button": "Select"
+    },
+    {
+      "id": "6",
+      "img": "https://i.ibb.co/N7CVnwc/Rectangle-3-3.png",
+      "title": "Software Engineering",
+      "paragraph": "Sed vitae justo sit amet tellus efficitur semper.",
+      "price": "$34.99",
+      "credit": "7 hrs",
+      "button": "Select"
+    },
+    {
+      "id": "7",
+      "img": "https://i.ibb.co/TmDwCYm/Rectangle-4-1.png",
+      "title": "AWS, Cloud Computing",
+      "paragraph": "Nullam eget nibh at justo dignissim vestibulum.",
+      "price": "$49.99",
+      "credit": "5 hrs",
+      "button": "Select"
+    },
+    {
+      "id": "8",
+      "img": "https://i.ibb.co/4gzDPPy/Rectangle-4-2.png",
+      "title": "Database (MySQL)",
+      "paragraph": "Aliquam suscipit mollis purus, in finibus metus tempor vel.",
+      "price": "$54.99",
+      "credit": "9 hrs",
+      "button": "Select"
+    },
+    {
+      "id": "9",
+      "img": "https://i.ibb.co/jLZCyjD/Rectangle-4-3.png",
+      "title": "Problem-Solving Part",
+      "paragraph": "Aenean placerat euismod ante, at blandit velit cursus at.",
+      "price": "$64.99",
+      "credit": "12 hrs",
+      "button": "Select"
+    }
+     
+]
+  
