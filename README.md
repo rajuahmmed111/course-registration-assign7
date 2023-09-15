@@ -7,6 +7,9 @@ We have nine programming language systems on this websitet.You can select any on
 
 # Discuss how you managed the state in your assignment project
 First I created a React project.
+
 I have taken some components in the course.The component includes a card reader and adding tailwind, dauisy.
+
 Code link: https://github.com/rajuahmmed111/course-registration-assign7
+
 some conditional rendering, event handler , passing props ,destructuring etc.
