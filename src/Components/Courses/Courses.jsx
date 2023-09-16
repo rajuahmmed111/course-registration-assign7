@@ -26,7 +26,12 @@ const Courses = () => {
         let credit = course.credit;
 
         if (isExist) {
-            return alert("already booked");
+            return Swal.fire({
+                icon: 'error',
+                title: 'Not available 2 time this card',
+                text: 'Something went wrong!',
+                footer: '<a href="">Why do I have this issue?</a>'
+            })
         }
         else {
             selectCourse.forEach((item) => {
@@ -34,7 +39,12 @@ const Courses = () => {
             });
             const remaining = 20 - credit;
             if (credit > 20) {
-                alert('Unavailable to credit read time')
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Unavailable to credit read time',
+                    text: '',
+                    footer: '<a href=""></a>'
+                })
             }
             else {
                 setTotalCreditHours(credit);
@@ -47,9 +57,9 @@ const Courses = () => {
 
 
     return (
-        <div>
-            <div className="flex flex-col lg:flex-row justify-between gap-4 w-[1450px] border-green-300">
-                <div className="grid grid-cols-1 w-2/3 lg:grid-cols-3 gap-6 shadow-xl">
+        <div className="w-[1440px">
+            <div className="flex flex-col lg:flex-row justify-between p-2 gap-5">
+                <div className="grid grid-cols-1 w-[1000px] lg:grid-cols-3 gap-2 shadow-xl">
                     {courses.map((course) => (
                         <div key={course.id} className="shadow-2xl  mt-8 rounded-lg p-4">
                             <div>
@@ -57,7 +67,7 @@ const Courses = () => {
                             </div>
 
                             <div>
-                                <h2 className="text-2xl font-bold mt-4">{course.title}</h2>
+                                <h2 className="text-lg mt-4">{course.title}</h2>
                             </div>
                             <p className="text-xs mt-4">{course.paragraph}</p>
 
@@ -72,7 +82,7 @@ const Courses = () => {
                         </div>
                     ))}
                 </div>
-                <div className="w-1/3 shadow-xl h-96 rounded-xl">
+                <div className=" w-[400px] h-[650px]  shadow-xl p-4 border mt-6 rounded-xl">
                     <Cart
                         selectCourse={selectCourse}
                         totalCreditHours={totalCreditHours}

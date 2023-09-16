@@ -1,8 +1,17 @@
-# React + Vite
+# Add at least 3 Project features
+Our course is very popular among online based courses.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Our website is very useful for all soft skills.
 
-Currently, two official plugins are available:
+We have nine programming language systems on this websitet.You can select any one of these nine languages ​​one by one.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Discuss how you managed the state in your assignment project
+First I created a React project.
+
+I have taken some components in the course.The component includes a card reader and adding tailwind, daisy UI.
+
+Code link: https://github.com/rajuahmmed111/course-registration-assign7
+
+live link: https://superb-loss.surge.sh/
+
+some conditional rendering, event handler , passing props ,destructuring etc.
