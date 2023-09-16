@@ -13,5 +13,3 @@ I have taken some components in the course.The component includes a card reader 
 Code link: https://github.com/rajuahmmed111/course-registration-assign7
 
 live link: https://superb-loss.surge.sh/
-
-some conditional rendering, event handler , passing props ,destructuring etc.
